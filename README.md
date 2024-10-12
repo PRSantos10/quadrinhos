@@ -12,3 +12,4 @@ A história se passa em uma loja de eletrônicos onde dois smartphones personifi
 
 1. [Product Backlog](https://github.com/PRSantos10/quadrinhos/blob/327fd2e0a0dd311c79bbaf1be19d883219885f7d/productBacklog.md)
 2. [Kanban do Product Backlog](https://github.com/users/PRSantos10/projects/1/views/1)
+3. [Kanban do Sprint 1](https://github.com/users/PRSantos10/projects/3/views/1)
